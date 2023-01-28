@@ -1,0 +1,6 @@
+2345,dgy,@sufgu,24,deh
+890,affan hassan,std$,20,0
+565,fahad mughal,q w e r t y $,20,0
+345,umair,asd%,19,0
+45668,bisma,asdf$,25,0
+234,bisma,qwe$,19,0

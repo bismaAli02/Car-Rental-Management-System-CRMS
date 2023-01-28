@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CRMSV4.BL.Car">
+    <Position X="11" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAACAAAAAAIAAAACAAAAAAgAAAAIAAAAA=</HashCode>
+      <FileName>BL\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.BL.Customer">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAQQQAAEEEAAAAQAAAAAAAIAAAACAAAgAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.DL.CarDL">
+    <Position X="11" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQQAAAAEAAQACAAAAAAEAAAAAAgAAAAJEBAA=</HashCode>
+      <FileName>DL\CarDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="carList" />
+      <Field Name="carUnderBudgetList" />
+      <Property Name="CarList" />
+      <Property Name="CarUnderBudgetList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CRMSV4.DL.CustomerDL">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAgQAAAAkAABIACAAAAAAAAEBAIAAAAAAAAIAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="custRecord" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Admin_sForm.AddCarForm">
+    <Position X="14" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAAQACAAAREAAACBAAACgIQAAgCAgEAACSEEBCA=</HashCode>
+      <FileName>GUI\Admin'sForm\AddCarForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="c" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Admin_sForm.AddCustomerForm">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAIAAAQACAAABAAAAGBCAACAIRAQAAAmEAAASBkAGA=</HashCode>
+      <FileName>GUI\Admin'sForm\AddCustomerForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Admin_sForm.AdminMainMenuForm">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAiAAAAAABACAAAACABAAAAQAAAIQAQBAAAg=</HashCode>
+      <FileName>GUI\Admin'sForm\AdminMainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.GUI.Admin_sForm.CrudCarForm">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAACAAAAAADACAJAACCAMACAACAAIQAQAAACg=</HashCode>
+      <FileName>GUI\Admin'sForm\CrudCarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.GUI.Admin_sForm.crudForm">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAIADEGAAAACSAEAAIACAEAQARAAgCg=</HashCode>
+      <FileName>GUI\Admin'sForm\crudForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.AllCarsForm">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQACACIBAgAAGABgQGAAIAAAQAAAoAIQAAACg=</HashCode>
+      <FileName>GUI\Cust'sForm\AllCarsForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.CarsUnderBudgetForm">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQACACgBAgAAWAhgQCAAIAAAAAQAoAIQAAACg=</HashCode>
+      <FileName>GUI\Cust'sForm\CarsUnderBudgetForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.CustMainMenuForm">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAgAAgAAGAggQCAAAAAAQAAAoAIQDAAAg=</HashCode>
+      <FileName>GUI\Cust'sForm\CustMainMenuForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.InvoiceForm">
+    <Position X="6.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEABAAQACAAABAwDAGQABACgCAIAAAAgEAAAQBAACA=</HashCode>
+      <FileName>GUI\Cust'sForm\InvoiceForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.ReturnCarForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACACgBIgAAGAhgACAAAIAAQAAEoAIQAAACg=</HashCode>
+      <FileName>GUI\Cust'sForm\ReturnCarForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.Cust_sForm.ViewSortedCarForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQACACgBAAAAGAhAQCQAIAAAQAAgoAIQAAACg=</HashCode>
+      <FileName>GUI\Cust'sForm\ViewSortedCarForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="logInCust" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRMSV4.GUI.LoginPortal.LoginPortal1">
+    <Position X="22" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAACBAAAACAABECAIAJAEAAEEAAAQBAAAA=</HashCode>
+      <FileName>GUI\LoginPortal\LoginPortal1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRMSV4.GUI.Login.Login_Portal">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAMAYAAAAAHAIAQBAAAA=</HashCode>
+      <FileName>GUI\Status\StatusForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

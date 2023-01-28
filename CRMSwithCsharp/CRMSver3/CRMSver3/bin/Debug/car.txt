@@ -1,0 +1,5 @@
+Wagon R,456,true
+alto suzuki,8000,true
+mehran,4000,true
+prado,30000,true
+ders,12,true

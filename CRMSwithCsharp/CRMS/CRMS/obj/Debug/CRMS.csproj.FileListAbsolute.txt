@@ -1,0 +1,7 @@
+F:\second semester\CRMS\CRMS\bin\Debug\CRMS.exe.config
+F:\second semester\CRMS\CRMS\bin\Debug\CRMS.exe
+F:\second semester\CRMS\CRMS\bin\Debug\CRMS.pdb
+F:\second semester\CRMS\CRMS\obj\Debug\CRMS.csproj.AssemblyReference.cache
+F:\second semester\CRMS\CRMS\obj\Debug\CRMS.csproj.CoreCompileInputs.cache
+F:\second semester\CRMS\CRMS\obj\Debug\CRMS.exe
+F:\second semester\CRMS\CRMS\obj\Debug\CRMS.pdb

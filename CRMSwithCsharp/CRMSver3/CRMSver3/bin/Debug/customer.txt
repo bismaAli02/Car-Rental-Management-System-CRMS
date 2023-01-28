@@ -1,0 +1,8 @@
+234,bisma ali,qwe$,18,0
+890,affan hassan,std$,20,0
+565,fahad mughal,q w e r t y $,20,0
+345,umair,asd%,19,0
+455,bisma,asdf$,45,0
+098,bis,qw!,20,0
+4563,dgy,@ufgu,24,0
+987,wasse,zse*,24,0

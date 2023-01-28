@@ -1,0 +1,4 @@
+Wagon R,456
+alto suzuki,8000
+mehran,4000
+prado,30000

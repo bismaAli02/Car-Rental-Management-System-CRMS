@@ -1,0 +1,4 @@
+Wagon R,4560,True
+alto suzuki,8000,True
+mehran,4000,True
+dehg,20000,False

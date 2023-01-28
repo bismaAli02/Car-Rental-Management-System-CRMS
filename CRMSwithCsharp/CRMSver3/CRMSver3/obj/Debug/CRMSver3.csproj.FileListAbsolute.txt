@@ -1,0 +1,14 @@
+F:\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.exe.config
+F:\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.exe
+F:\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.pdb
+F:\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.csproj.AssemblyReference.cache
+F:\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.csproj.CoreCompileInputs.cache
+F:\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.exe
+F:\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.pdb
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.exe.config
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.exe
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\bin\Debug\CRMSver3.pdb
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.csproj.AssemblyReference.cache
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.csproj.CoreCompileInputs.cache
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.exe
+D:\UniversityData\UniversityData\second semester\CRMSver3\CRMSver3\obj\Debug\CRMSver3.pdb

@@ -1,0 +1,7 @@
+F:\second semester\CRMS_ver2\CRMS_ver2\bin\Debug\CRMS_ver2.exe.config
+F:\second semester\CRMS_ver2\CRMS_ver2\bin\Debug\CRMS_ver2.exe
+F:\second semester\CRMS_ver2\CRMS_ver2\bin\Debug\CRMS_ver2.pdb
+F:\second semester\CRMS_ver2\CRMS_ver2\obj\Debug\CRMS_ver2.csproj.AssemblyReference.cache
+F:\second semester\CRMS_ver2\CRMS_ver2\obj\Debug\CRMS_ver2.csproj.CoreCompileInputs.cache
+F:\second semester\CRMS_ver2\CRMS_ver2\obj\Debug\CRMS_ver2.exe
+F:\second semester\CRMS_ver2\CRMS_ver2\obj\Debug\CRMS_ver2.pdb
